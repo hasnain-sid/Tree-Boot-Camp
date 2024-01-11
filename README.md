@@ -6,3 +6,5 @@ Day 2: Daimeter, Inverting Tree
 Day 3: Finding Subtree(REVISIT), Symmetric tree
 
 Day 4: Convert Sorted Array to binary tree(REVISIT++)
+
+Day 5: Maximum Difference Between Node and Ancestor(REVISIT)++
