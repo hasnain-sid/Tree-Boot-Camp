@@ -8,3 +8,5 @@ Day 3: Finding Subtree(REVISIT), Symmetric tree
 Day 4: Convert Sorted Array to binary tree(REVISIT++)
 
 Day 5: Maximum Difference Between Node and Ancestor(REVISIT)++
+
+Day 6: Minum Absolute Diff. in BST (NOTE: INORDER IN BST IS SAME AS ITERATING A SORTED ARRAY) REVISIT++
